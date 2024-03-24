@@ -45,3 +45,4 @@ if (answer.operator === "Addition") {
 } else {
   console.log("Please select a valid opreator");
 }
+console.log("the end")
